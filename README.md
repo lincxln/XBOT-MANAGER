@@ -188,3 +188,11 @@ For starters click on this button
 
 ## Credits
 The bot is based on the original work done by [PaulSonOfLars](https://github.com/PaulSonOfLars)
+
+## <p align="center">Deploy to Heroku Methods</p>
+
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/lincxln/XBOT-MANAGER/tree/alpha"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=flat&logo=heroku" width="210" height="34.45" /></a></p>
+
+<br>
+
+</p>
